@@ -1,0 +1,12 @@
+.searchFilter {
+    padding: 10px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.book-type,
+.print-type {
+    margin: 0 20px;
+}

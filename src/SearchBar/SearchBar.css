@@ -1,0 +1,11 @@
+.SearchBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: darkgray;
+}
+
+#searchbox {
+    margin-left: 5px;
+}
